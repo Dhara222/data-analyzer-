@@ -439,16 +439,7 @@ Data-Analyzer-and-Transformer/
 ---
 
 # 📸 Project Output
-
-Add your screenshot to the repository:
-
-```markdown
-![Data Analyzer Output](screenshots/output.jpg)
-```
-
-<p align="center">
-  <img src="screenshots/output.jpg" alt="Data Analyzer Output" width="500">
-</p>
+(<img width="960" height="2865" alt="4ss" src="https://github.com/user-attachments/assets/f3bdcfa2-5421-4108-9660-1f64d6c8ce19" />)
 
 ---
 
