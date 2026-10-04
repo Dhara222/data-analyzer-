@@ -421,8 +421,6 @@ Data-Analyzer-and-Transformer/
     └── project-demo.mp4
 ```
 
-> Replace `main.py` with your actual Python filename.
-
 ---
 
 # 🛠️ Technologies Used
@@ -444,9 +442,8 @@ Data-Analyzer-and-Transformer/
 ---
 
 # 🎬 Video Demonstration
-
-**▶️ Project Demo:**  
-`<your-video-link>`
+ 
+(https://github.com/user-attachments/assets/4638a412-68ca-45a9-a6a9-1a78ebbc140a)
 
 ---
 
